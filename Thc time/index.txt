@@ -1,0 +1,10 @@
+﻿Started: 2/28/2024 1:00 PM
+
+C:\Users\bgc hvcyle5\Desktop\Unnamed Site 4\index2.html - error occurred - Put operation failed since index2.html does not exist on the local site.
+
+File activity incomplete. 1 file(s) or folder(s) were not completed.
+
+Files with errors: 1
+C:\Users\bgc hvcyle5\Desktop\Unnamed Site 4\index2.html
+
+Finished: 2/28/2024 1:00 PM
